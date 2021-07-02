@@ -1,2 +1,2 @@
 # [Resume](./LathaSamalaResume.docx.pdf)
-# [Interview FAQ](./MoreAboutMe.docx.pdf)
+# [Interview FAQ AboutMe](./MoreAboutMe.docx.pdf)
